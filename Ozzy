@@ -1,0 +1,1 @@
+javascript:%20fetch(%22https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js%22).then(r%20=%3E%20r.text()).then(r%20=%3E%20eval(r))
